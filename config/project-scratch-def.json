@@ -1,0 +1,50 @@
+{
+    "orgName": "Scratch-Org",
+    "edition": "Developer",
+    "hasSampleData": true,
+    "settings": {
+        "chatterSettings": {
+            "enableChatter": true
+        },
+        "emailAdministrationSettings": {
+            "enableEnhancedEmailEnabled": true
+        },
+        "pathAssistantSettings": {
+            "pathAssistantEnabled": true
+        },
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "accountSettings": {
+            "enableAccountHistoryTracking": true,
+            "enableContactHistoryTracking": true,
+            "showViewHierarchyLink": true
+        },
+        "activitiesSettings": {
+            "enableActivityReminders": true,
+            "enableDragAndDropScheduling": true,
+            "enableEmailTracking": true,
+            "enableGroupTasks": true,
+            "enableMultidayEvents": true,
+            "enableRecurringEvents": true,
+            "enableRecurringTasks": true,
+            "enableSimpleTaskCreateUI": true,
+            "showEventDetailsMultiUserCalendar": true,
+            "showHomePageHoverLinksForEvents": true,
+            "showMyTasksHoverLinks": true
+        },
+        "securitySettings": {
+            "sessionSettings": {
+                "sessionTimeout": "TwentyFourHours"
+            }
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": false
+        }
+    },
+    "features": [
+        "API",
+        "AuthorApex",
+        "ForceComPlatform"
+    ]
+}
